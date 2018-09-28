@@ -1,0 +1,72 @@
+article {
+    max-width: 620px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin: auto;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 62.5%;
+  }
+
+  p, ul, ol, dl {
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+  }
+
+  h1, h3, h4 {
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  h1 {
+    font-size: 2.75rem;
+    margin: 20px 0;
+  }
+  
+  
+  h3 {
+    font-size: 1.5rem;
+    margin: 14px 0 8px 0;
+  }
+  
+  h4 {
+      font-size: 1rem;
+  }
+
+  .byline {
+        margin-top: 2px;
+        margin-bottom: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+      }
+
+  #credit {
+    margin-top: 2px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: right;
+  }
+
+  #yield {
+      border-left: 4px solid gray;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 1.2rem;
+      padding-left: 20px;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      margin-left: 40px;
+      margin-right: 40px;
+  }
+
+  ol {
+    list-style-position: inside;
+  }
+
+  footer {
+    clear: both;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
